@@ -1,7 +1,6 @@
 # SQL Challenge Case Study 1: Danny's Diner
 ![image](https://github.com/oanhphuong16/8weeksqlchallenge/assets/102425313/b9c56ec2-9529-4d43-9d6a-ad33da72457a)
 
-
 ## Introduction
 
 This document presents my solutions for the SQL Challenge Case Study 1 [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/), focusing on analyzing customer transactions at Danny's Diner. The goal is to derive insights into customer behavior and item popularity using SQL queries.
